@@ -1,0 +1,5 @@
+berikut daftar install yang dibutuhkan untuk menjalankan program ini:
+pip install requests
+pip install beautifulsoup4
+pip install fpdf
+pip install pillow
